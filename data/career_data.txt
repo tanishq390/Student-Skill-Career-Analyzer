@@ -1,0 +1,38 @@
+Student Skill & Career Path Analyzer
+Career Database
+
+Software Developer
+Java=75
+Data Structures=70
+Problem Solving=75
+SQL=60
+Communication=60
+
+Backend Developer
+Java=75
+SQL=75
+Data Structures=65
+Problem Solving=70
+
+Data Analyst
+Python=70
+SQL=75
+Statistics=70
+Communication=65
+
+AI/ML Engineer
+Python=80
+Machine Learning=75
+Statistics=70
+Problem Solving=75
+
+Cyber Security Analyst
+Networking=75
+Cyber Security=80
+Python=60
+Problem Solving=70
+
+Project Manager
+Communication=85
+Problem Solving=75
+Data Structures=40
