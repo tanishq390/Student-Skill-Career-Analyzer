@@ -241,6 +241,4 @@ This project provides practical experience with:
 
 ## Author
 
-Student Skill & Career Path Analyzer
-
-Developed as a Java academic project.
+## Tanishq Pipriya
